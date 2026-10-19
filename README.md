@@ -2,7 +2,7 @@
 Giới thiệu bản thân sinh viên
 # Nguyễn Ngọc Ánh
 
-![Ảnh đại diện](blob:https://www.messenger.com/860f7b91-804f-4473-b804-fe3cd927c64f)
+![Ảnh đại diện](https://web.facebook.com/559a868b-8c15-4a50-9ce0-80828666e6cd)
 
 Xin chào! Tôi là sinh viên ngành Sư Phạm Tin Học Trường Đại học Sư Phạm, Đại hoạc Huế. Tôi học lớp Tin 2A
 
